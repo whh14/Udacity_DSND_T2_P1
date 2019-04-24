@@ -3,11 +3,12 @@ Udacity Data Scientist Nanodegree program, Term 2 Project 1: Write a Data Scienc
 
 
 ## Installation
-The jupyter notebook file (udacity_airbnb.ipynb) was completed with python 3.6.8. To run the file, You would need to download and save the data files (https://www.kaggle.com/airbnb/seattle/kernels) to the same directory 
+The jupyter notebook file (udacity_airbnb.ipynb) was completed with python 3.6.8. To run the file, You would need to download data files (https://www.kaggle.com/airbnb/seattle/kernels) to the same directory. 
 
 ## File descriptions
-  README.md : 
-  udacity_airbnb.ipynb : Jupyter notebook file contains the investigation, analysis and results of the Seattle Airbnb open data
+  README.md :
+  
+  udacity_airbnb.ipynb : Jupyter notebook file contains the investigation, analysis and results of the Seattle Airbnb open data.
 
 ## Project Motivation
 This Github repository contain the jupyter notebook file requires as part of the Project 1, term 2 of the Udacity data Data Scientist Nanodegree program.  The tile of the project is referred to as "Write a Data Science Blog Post".  The key tasks for this project are to (1) pick and analysis a dataset following the CRISP-DM process (2) pose and answer (at least) three questions relate to the dataset.  The analysis would be shown in a Jupyter notebook (this file) saved in Github repos and results/findings also publish on a blog post. 
@@ -33,6 +34,4 @@ https://medium.com/@hsiao.jeffreynz/read-this-if-you-use-airbnb-8907ddbea86f
 
 ## Acknowledgements
 I would like to thank Udacity (https://www.udacity.com/) staff members and course coordinators for setting up relevant course and project materials and Airbnb (https://www.airbnb.com/) for sharing their data. 
-
-
 
